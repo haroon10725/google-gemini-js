@@ -1,1 +1,1 @@
-# google-gemini-js
+# Welcome to Gemini API examples in JS
